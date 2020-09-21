@@ -13,11 +13,11 @@
 * 아나콘다에는 requests 패키지가 site-packages로 설치되어 있음 만일 설치를 해야 한다면 pipenv 명령으로 설치
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28236%29.png)
+![](../../.gitbook/assets/image%20%28239%29.png)
 
 ## requests.request\(\)
 
-![](../../.gitbook/assets/image%20%28235%29.png)
+![](../../.gitbook/assets/image%20%28238%29.png)
 
 ## requests.models.Response 처리 ...
 
