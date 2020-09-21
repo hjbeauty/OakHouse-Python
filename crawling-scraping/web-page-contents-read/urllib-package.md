@@ -65,7 +65,7 @@
 * URL 문자열의 정보를 파싱하고 각각의 정보를 정해진 속성으로 저장하여 urllib.parse.ParseResult 객체를 리턴
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28240%29.png)
+![](../../.gitbook/assets/image%20%28243%29.png)
 
 {% hint style="info" %}
 ### urllib.parse.urlencode\(\)

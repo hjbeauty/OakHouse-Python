@@ -22,11 +22,19 @@
 
   bs = BeautifulSoup\(html\_doc, 'lxml-xml'\)  bs = BeautifulSoup\(html\_doc, 'html5lib'\)
 
-![Parser Library](.gitbook/assets/image%20%28241%29.png)
+![Parser Library](.gitbook/assets/image%20%28244%29.png)
 
 ### bs4.BeautifulSoup 객체의 태그 접근 방법
 
 ![](.gitbook/assets/image%20%28225%29.png)
 
+![](.gitbook/assets/image%20%28241%29.png)
+
+![](.gitbook/assets/image%20%28238%29.png)
+
+![](.gitbook/assets/image%20%28242%29.png)
+
 ![](.gitbook/assets/image%20%28239%29.png)
+
+![](.gitbook/assets/image%20%28245%29.png)
 
