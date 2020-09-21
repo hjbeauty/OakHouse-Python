@@ -19,11 +19,22 @@
 
 ![](../../.gitbook/assets/image%20%28230%29.png)
 
-> requests.models.Response 처리 ...
+## requests.models.Response 처리 ...
 
 > requests.request\(\), requests.get\(\), requests.head\(\), requests.post\(\) 함수 모두 리턴 값은 requests.models.Response
 
 {% hint style="info" %}
 ### text
+
+* 문자열 형식으로 응답 콘텐츠 추출 - 추출 시 사용되는 문자 셋은'ISO-8859-1’==&gt; 'utf-8’이나  'euc-kr' 문자 셋으로 작성된 콘텐츠  추출 시 한글이 깨지는 현상 발생
+* 추출 전 응답되는 콘텐츠의 문자 셋  정보를 파악하여 Response 객체의  encoding 속성에 문자 셋 정보를  설정한 후 추출
+{% endhint %}
+
+{% hint style="info" %}
+## content
+
+* 바이트열 형식으로 응답 콘텐츠 추출 
+* 응답 콘텐츠가 이미지와 같은 바이너리 형식인 경우 사용 
+* 한글이 들어간 문자열 형식인 경우 r.content.decode\('utf-8'\)를 사용해서 디코드 해야 함
 {% endhint %}
 
