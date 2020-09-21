@@ -39,8 +39,6 @@
 * [web page contents read\(웹 페이지의 콘텐츠 읽어오기\)](crawling-scraping/web-page-contents-read/README.md)
   * [urllib package](crawling-scraping/web-page-contents-read/urllib-package.md)
   * [requests package](crawling-scraping/web-page-contents-read/requests-package.md)
-
----
-
-* [HTML parsing - BeautifulSoup](html-parsing-beautifulsoup.md)
+* [HTML parsing - BeautifulSoup](crawling-scraping/html-parsing-beautifulsoup.md)
+* [Selenium](crawling-scraping/selenium.md)
 
