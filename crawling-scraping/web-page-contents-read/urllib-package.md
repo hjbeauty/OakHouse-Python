@@ -44,10 +44,50 @@
 #### 웹 페이지 인코딩 체크
 
 * &lt;meta charset="utf-8"&gt;
-* §http.client.HTTPMessage 객체의 get\_content\_charset\(\) 메서드
+* encode = f.info\(\).get\_content\_charset\(\)
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%28226%29.png)
 
 ![](../../.gitbook/assets/image%20%28232%29.png)
+
+## 
+
+## urllib.parse
+
+* 웹 서버에 페이지 또는 정보를 요청할 때 함께 전달하는 데이터
+* 영문과 숫자는 그대로 전달되지만 한글은 %기호와 함께 16진수 코드 값으로 전달되어야 함
+* 웹 크롤링을 할 때 요구되는 Query 문자열을  함께 전달해야 하는 경우, 직접 Query 문자열을  구성해서 전달해야 함
+
+{% hint style="info" %}
+### urllib.parse.urlparse\("URL문자열"\)
+
+* URL 문자열의 정보를 파싱하고 각각의 정보를 정해진 속성으로 저장하여 urllib.parse.ParseResult 객체를 리턴
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%28234%29.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
