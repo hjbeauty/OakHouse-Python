@@ -35,5 +35,5 @@
 
 ## Crawling-Scraping
 
-* [crawling\(크롤링\)](crawling-scraping/crawling.md)
+* [crawling\(크롤링\), 공공데이터, SNS ......](crawling-scraping/crawling.md)
 

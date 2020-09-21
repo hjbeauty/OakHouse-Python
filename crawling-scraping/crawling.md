@@ -1,4 +1,4 @@
-# crawling\(크롤링\)
+# crawling\(크롤링\), 공공데이터, SNS ......
 
 {% hint style="info" %}
   웹 크롤링과 웹 스크래핑
@@ -20,5 +20,57 @@
 
 #### 초 간단 예\)  
 
+![](../.gitbook/assets/image%20%28227%29.png)
+
+## 공공데이터
+
+* 공공기관이 전자적으로 생성 또는 취득하여 관리하고 있는 모든 데이터베이스\(DB\), 전자화된 파일
+
+## 공공데이터 개방
+
+* 공공기관이 이용자에게 정보를 재활용할 수 있도록 제공하고, 제공받은 정보를 상업적·비영리적으로 이용할 권한 부여
+* 보유하고 있는 공공데이터를 적극적으로 개방하여 국민과 공유함으로써 소통과 협력을 확대하기 위해 공공데이터 정책 추진 2013년 7월 공공데이터법을 제정하고 공공데이터 개방을 10월부터 시행
+
+![](../.gitbook/assets/image%20%28228%29.png)
+
 ![](../.gitbook/assets/image%20%28226%29.png)
+
+## SNS \(Social Networking Service\)
+
+* 사회적 관계를 생성하고 강화해주는 온라인 플랫폼
+* 최근 스마트폰 이용자의 증가와 무선인터넷 서비스의  확장과 더불어 SNS의 이용자 또한 급증하고 있음
+
+### OPEN API
+
+* 인터넷 이용자가 웹 검색 결과 및 사용자 화면 등을 제공받는데 그치지 않고 직접 응용 프로그램과 서비스를 개발할 수 있도록 공개된 개발자를 위한 인터페이스
+* 대부분의 SNS 사이트들은 개발자로 등록하고 인증키를 받아 제공되는 API 사용
+
+> 네이버 블로그 검색 : [https://developers.naver.com/docs/search/blog/](https://developers.naver.com/docs/search/blog/)   
+> 네이버 뉴스 검색 : [https://developers.naver.com/docs/search/news/](https://developers.naver.com/docs/search/news/)
+
+### RSS\(Really Simple Syndication/Rich Site Summary\)
+
+* 뉴스나 블로그와 같이 콘텐츠 업데이트가 자주 일어나는 웹 사이트에서 업데이트된 정보를 정해진 규격의 XML 형식으로 자동화하여 사용자에게 제공하기 위한 서비스
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
