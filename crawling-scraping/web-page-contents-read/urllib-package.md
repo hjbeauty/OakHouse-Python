@@ -38,7 +38,7 @@
 * 바이트열\(bytes\)의 decode\(‘문자 셋’\) 메서드를 실행하여 응답된 문자 셋에 알맞은 문자로 변환함
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28243%29.png)
+![](../../.gitbook/assets/image%20%28247%29.png)
 
 {% hint style="success" %}
 #### 웹 페이지 인코딩 체크
@@ -47,9 +47,9 @@
 * encode = f.info\(\).get\_content\_charset\(\)
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28231%29.png)
+![](../../.gitbook/assets/image%20%28232%29.png)
 
-![](../../.gitbook/assets/image%20%28244%29.png)
+![](../../.gitbook/assets/image%20%28248%29.png)
 
 ## 
 
@@ -65,7 +65,7 @@
 * URL 문자열의 정보를 파싱하고 각각의 정보를 정해진 속성으로 저장하여 urllib.parse.ParseResult 객체를 리턴
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28250%29.png)
+![](../../.gitbook/assets/image%20%28256%29.png)
 
 {% hint style="info" %}
 ### urllib.parse.urlencode\(\)
@@ -73,7 +73,7 @@
 * 메서드의 아규먼트로 지정된 name과 value로 구성된 딕셔너리 정보를 정해진 규격의 Query 문자열 또는 요청 파라미터 문자열로 리턴
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28241%29.png)
+![](../../.gitbook/assets/image%20%28245%29.png)
 
 ![](../../.gitbook/assets/image%20%28228%29.png)
 
