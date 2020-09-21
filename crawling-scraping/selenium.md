@@ -7,9 +7,9 @@ description: Selenium 웹 브라우저를  자동화하는 도구 모음 이용�
 ## [https://www.seleniumhq.org/](https://www.seleniumhq.org/
 )
 
-![](../.gitbook/assets/image%20%28231%29.png)
+![](../.gitbook/assets/image%20%28236%29.png)
 
-![](../.gitbook/assets/image%20%28239%29.png)
+![](../.gitbook/assets/image%20%28251%29.png)
 
 {% hint style="info" %}
 동적 웹 페이지 화면
@@ -24,7 +24,7 @@ description: Selenium 웹 브라우저를  자동화하는 도구 모음 이용�
 > * 동적 웹 페이지를 보다 잘 지원할 수  있도록 개발
 > * **자동화를 위한 각 브라우저의 기본 지원을 사용하여 브라우저를 직접 호출**
 
-![](../.gitbook/assets/image%20%28237%29.png)
+![](../.gitbook/assets/image%20%28245%29.png)
 
 {% hint style="info" %}
 ## install
@@ -38,29 +38,29 @@ description: Selenium 웹 브라우저를  자동화하는 도구 모음 이용�
 
 > Selenium의 Web Driver에 의해 제어되는 크롬 드라이버 설치를 위해 시스템에 설치된 크롬 브라우저의 버전 체크
 
-![](../.gitbook/assets/image%20%28229%29.png)
+![](../.gitbook/assets/image%20%28233%29.png)
 
 > [https://sites.google.com/a/chromium.org/chromedriver/  
 > ](https://sites.google.com/a/chromium.org/chromedriver/
 > )시스템에 설치된 크롬 브라우저와 동일 버전의 링크 클릭
 
-![](../.gitbook/assets/image%20%28236%29.png)
+![](../.gitbook/assets/image%20%28244%29.png)
 
-![](../.gitbook/assets/image%20%28241%29.png)
+![](../.gitbook/assets/image%20%28253%29.png)
 
 test1
 
-![](../.gitbook/assets/image%20%28240%29.png)
+![](../.gitbook/assets/image%20%28252%29.png)
 
 2
 
-![](../.gitbook/assets/image%20%28235%29.png)
+![](../.gitbook/assets/image%20%28243%29.png)
 
-![](../.gitbook/assets/image%20%28251%29.png)
+![](../.gitbook/assets/image%20%28265%29.png)
 
-![](../.gitbook/assets/image%20%28230%29.png)
+![](../.gitbook/assets/image%20%28234%29.png)
 
-![](../.gitbook/assets/image%20%28252%29.png)
+![](../.gitbook/assets/image%20%28266%29.png)
 
-![](../.gitbook/assets/image%20%28238%29.png)
+![](../.gitbook/assets/image%20%28248%29.png)
 

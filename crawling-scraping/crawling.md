@@ -16,11 +16,11 @@
 * 다운로드한 웹 페이지에서 필요한 콘텐츠를 추출하는 작업
 * 웹 페이지를 구성하고 있는 HTML 태그의 콘텐츠\(text node\)나 속성\(attr\)의 값을 읽는 작업
 
-![](../.gitbook/assets/image%20%28234%29.png)
+![](../.gitbook/assets/image%20%28240%29.png)
 
 #### 초 간단 예\)  
 
-![](../.gitbook/assets/image%20%28259%29.png)
+![](../.gitbook/assets/image%20%28275%29.png)
 
 ## 공공데이터
 
@@ -31,13 +31,13 @@
 * 공공기관이 이용자에게 정보를 재활용할 수 있도록 제공하고, 제공받은 정보를 상업적·비영리적으로 이용할 권한 부여
 * 보유하고 있는 공공데이터를 적극적으로 개방하여 국민과 공유함으로써 소통과 협력을 확대하기 위해 공공데이터 정책 추진 2013년 7월 공공데이터법을 제정하고 공공데이터 개방을 10월부터 시행
 
-![](../.gitbook/assets/image%20%28261%29.png)
+![](../.gitbook/assets/image%20%28279%29.png)
 
-![](../.gitbook/assets/image%20%28253%29.png)
+![](../.gitbook/assets/image%20%28267%29.png)
 
 ![](../.gitbook/assets/image%20%28226%29.png)
 
-## SNS \(Social Networking Service\) ![](../.gitbook/assets/image%20%28244%29.png) 
+## SNS \(Social Networking Service\) ![](../.gitbook/assets/image%20%28256%29.png) 
 
 * 사회적 관계를 생성하고 강화해주는 온라인 플랫폼
 * 최근 스마트폰 이용자의 증가와 무선인터넷 서비스의  확장과 더불어 SNS의 이용자 또한 급증하고 있음
@@ -50,7 +50,7 @@
 > 네이버 블로그 검색 : [https://developers.naver.com/docs/search/blog/](https://developers.naver.com/docs/search/blog/)   
 > 네이버 뉴스 검색 : [https://developers.naver.com/docs/search/news/](https://developers.naver.com/docs/search/news/)
 
-### RSS\(Really Simple Syndication/Rich Site Summary\) ![](../.gitbook/assets/image%20%28246%29.png) 
+### RSS\(Really Simple Syndication/Rich Site Summary\) ![](../.gitbook/assets/image%20%28258%29.png) 
 
 * 뉴스나 블로그와 같이 콘텐츠 업데이트가 자주 일어나는 웹 사이트에서 업데이트된 정보를 정해진 규격의 XML 형식으로 자동화하여 사용자에게 제공하기 위한 서비스
 

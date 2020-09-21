@@ -41,4 +41,5 @@
   * [requests package](crawling-scraping/web-page-contents-read/requests-package.md)
 * [HTML parsing - BeautifulSoup](crawling-scraping/html-parsing-beautifulsoup.md)
 * [Selenium](crawling-scraping/selenium.md)
+* [KoNLPy](crawling-scraping/konlpy.md)
 
