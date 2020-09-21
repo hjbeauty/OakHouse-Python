@@ -13,11 +13,11 @@
 * 아나콘다에는 requests 패키지가 site-packages로 설치되어 있음 만일 설치를 해야 한다면 pipenv 명령으로 설치
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28231%29.png)
+![](../../.gitbook/assets/image%20%28232%29.png)
 
 ## requests.request\(\)
 
-![](../../.gitbook/assets/image%20%28230%29.png)
+![](../../.gitbook/assets/image%20%28231%29.png)
 
 ## requests.models.Response 처리 ...
 
@@ -37,4 +37,41 @@
 * 응답 콘텐츠가 이미지와 같은 바이너리 형식인 경우 사용 
 * 한글이 들어간 문자열 형식인 경우 r.content.decode\('utf-8'\)를 사용해서 디코드 해야 함
 {% endhint %}
+
+```python
+#ex1
+import requests
+from bs4 import BeautifulSoup
+import re
+
+req = requests.get('http://movie.naver.com/movie/point/af/list.nhn?page=1')
+1
+2
+print(soup)
+
+3
+4
+5
+movie_title = []
+movie_point = []
+movie_review = [] 
+
+for dom in titles:
+6
+
+for dom in points:
+7
+
+for dom in reviews:
+8
+
+commentLength = len(movie_title)   
+
+for i in range(commentLength):
+    print("영화 제목 : " + movie_title[i])
+    print("평점 : " + movie_point[i])
+    print("리뷰글 : " + movie_review[i])
+    print("-----------------------------------------")
+
+```
 

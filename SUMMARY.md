@@ -40,3 +40,7 @@
   * [urllib package](crawling-scraping/web-page-contents-read/urllib-package.md)
   * [requests package](crawling-scraping/web-page-contents-read/requests-package.md)
 
+---
+
+* [HTML parsing - BeautifulSoup](html-parsing-beautifulsoup.md)
+
