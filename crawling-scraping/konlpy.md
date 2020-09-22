@@ -1,5 +1,5 @@
 ---
-description: KoNLPy 라이브러리
+description: KoNLPy is a Python package for Korean natural language processing
 ---
 
 # KoNLPy
