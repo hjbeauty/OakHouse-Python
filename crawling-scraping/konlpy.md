@@ -44,7 +44,7 @@ msg = """
 
 ```
 
-![](../.gitbook/assets/image%20%28292%29.png)
+![](../.gitbook/assets/image%20%28293%29.png)
 
 **\#\#\# 실습2....**
 
@@ -60,7 +60,7 @@ msg = """
 ## 문장으로는 지원하지 않음
 ```
 
-![](../.gitbook/assets/image%20%28289%29.png)
+![](../.gitbook/assets/image%20%28290%29.png)
 
 #### \#\#\# 실습3..... 명사 ㅡ 품사태
 
@@ -76,7 +76,7 @@ Kkma, Twiter
 
 #### \#\#실습 : 5
 
-![](../.gitbook/assets/image%20%28293%29.png)
+![](../.gitbook/assets/image%20%28294%29.png)
 
 ![](../.gitbook/assets/image%20%28250%29.png)
 
@@ -92,9 +92,9 @@ Kkma, Twiter
 
 ![](../.gitbook/assets/image%20%28272%29.png)
 
-![](../.gitbook/assets/image%20%28290%29.png)
-
 ![](../.gitbook/assets/image%20%28291%29.png)
+
+![](../.gitbook/assets/image%20%28292%29.png)
 
 ## wordcloud 라이브러리란?
 
@@ -102,7 +102,7 @@ Kkma, Twiter
 
 ![](../.gitbook/assets/image%20%28282%29.png)
 
-![](../.gitbook/assets/image%20%28294%29.png)
+![](../.gitbook/assets/image%20%28295%29.png)
 
 ![](../.gitbook/assets/image%20%28283%29.png)
 
@@ -111,4 +111,6 @@ Kkma, Twiter
 ![](../.gitbook/assets/image%20%28287%29.png)
 
 ![](../.gitbook/assets/image%20%28281%29.png)
+
+![](../.gitbook/assets/image%20%28289%29.png)
 
