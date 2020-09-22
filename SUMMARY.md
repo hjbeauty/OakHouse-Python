@@ -42,5 +42,5 @@
 * [HTML parsing - BeautifulSoup](crawling-scraping/html-parsing-beautifulsoup.md)
 * [Selenium](crawling-scraping/selenium.md)
 * [Untitled](crawling-scraping/untitled.md)
-* [KoNLPy](crawling-scraping/konlpy.md)
+* [KoNLPy https://konlpy.org/en/latest/](crawling-scraping/konlpy.md)
 

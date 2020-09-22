@@ -2,9 +2,9 @@
 description: KoNLPy is a Python package for Korean natural language processing
 ---
 
-# KoNLPy
+# KoNLPy https://konlpy.org/en/latest/
 
-text 파일을 읽어서 형태소를 나누고, 워드클라우드를 만들어 보자.... 
+  KoNLPy는 한국어 자연어 처리를위한 Python 패키지입니다text 파일을 읽어서 형태소를 나누고, 워드클라우드를 만들어 보자.... 
 
 ![](../.gitbook/assets/image%20%28264%29.png)
 
