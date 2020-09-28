@@ -1,8 +1,13 @@
 ---
-description: 프로젝트를 만들기 위한  workspace와 같은 것
+description: '프로젝트를 만들기 위한  workspace와 같은 것 ,  eclipse =프로젝트'
 ---
 
 # Virtual Environments\(가상환경\)
+
+> eclipse -&gt; .java 를 만들려해도 우선 프로젝트단위로 작업합니다.  
+>                    java version, jdk 의 위치 설정 , jdbc  lib ,  하나씩 lib폴더에  ~~.jar lib 파일,  
+>   
+> A=--,P-- , V---  : 가상환경 , 프로젝트단위로 작업 을 하기 위한 ,~~
 
 ## \* PIP 설치   
 

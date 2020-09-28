@@ -155,7 +155,8 @@ print("베니♥" * 7)
 {% hint style="info" %}
  **참인경우 값 if 조건 else 거짓인경우 값**
 
-print\("짝수" if num % 2 == 0 else "홀수"\)
+print\("짝수" if num % 2 == 0 else "홀수"\)  
+~println\(\(num %  2\)==0 ? "짝수" : "홀수"\); 
 {% endhint %}
 
 {% hint style="danger" %}
