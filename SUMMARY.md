@@ -46,5 +46,5 @@
 
 ## pytorch
 
-* [Untitled](pytorch/untitled.md)
+* [PYTORCH install](pytorch/untitled.md)
 
