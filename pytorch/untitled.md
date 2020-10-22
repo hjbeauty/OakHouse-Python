@@ -19,3 +19,10 @@ pytorch install
 ```
 {% endhint %}
 
+{% hint style="info" %}
+참고 많이 된 곳
+
+* [https://one-way-people.tistory.com/5](https://one-way-people.tistory.com/5)
+* 
+{% endhint %}
+
