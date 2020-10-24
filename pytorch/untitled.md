@@ -30,3 +30,5 @@ pytorch install
 >
 > 콘다base&gt;conda install pytorch-cpu torchvision-cpu -c pytorch
 
+
+
