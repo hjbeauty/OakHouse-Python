@@ -14,6 +14,15 @@
 ![](../.gitbook/assets/image%20%28301%29.png)
 
 {% hint style="info" %}
+## **PyQt5 설치하기**
+
+* pip install pyqt5
+* pip install pyside2  
+  *  Pyside2를 설치하셨으면 Qt Designer가 자동으로 설치된다
+  * 경로 확인 : D:\works\pyqt\_test\venv\Lib\site-packages\PySide2\designer.exe
+{% endhint %}
+
+{% hint style="info" %}
 ## 파이참에서 Qt Designer 연결
 
 *   _**File &gt; Settings File &gt; Tools &gt; External Tools**_ 
