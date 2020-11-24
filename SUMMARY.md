@@ -52,3 +52,7 @@
 
 * [path](path.md)
 
+## Pyqt
+
+* [Windows 10 PyQt5 install](pyqt/windows-10-pyqt5-install.md)
+
