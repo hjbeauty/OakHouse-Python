@@ -11,7 +11,7 @@
 
 설치 후 실행화면
 
-![](../.gitbook/assets/image%20%28301%29.png)
+![](../.gitbook/assets/image%20%28303%29.png)
 
 {% hint style="info" %}
 ## **PyQt5 설치하기**
@@ -28,11 +28,15 @@
 *   _**File &gt; Settings File &gt; Tools &gt; External Tools**_ 
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28303%29.png)
+![](../.gitbook/assets/image%20%28305%29.png)
 
 interpreter 위치 저장하는 변수 --&gt; insert 버튼 선택
 
-![](../.gitbook/assets/image%20%28302%29.png)
+![](../.gitbook/assets/image%20%28304%29.png)
+
+![](../.gitbook/assets/image%20%28299%29.png)
+
+![](../.gitbook/assets/image%20%28300%29.png)
 
 참고사이트 
 
