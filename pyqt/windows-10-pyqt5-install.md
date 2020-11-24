@@ -10,7 +10,7 @@ PyQt : Qt의 레이이웃에 Python의 코드를 연결하여 GUI FrameWork
 * \(venv\) D:\works\pyqt\_test&gt;pip install PyQt5 
 {% endhint %}
 
-![](../.gitbook/assets/image%20%28298%29.png)
+![](../.gitbook/assets/image%20%28299%29.png)
 
 또는 직접 다운로드
 
@@ -43,7 +43,7 @@ if __name__ == '__main__':
     sys.exit(app.exec_())
 ```
 
-![](../.gitbook/assets/image%20%28299%29.png)
+![](../.gitbook/assets/image%20%28300%29.png)
 
 
 
