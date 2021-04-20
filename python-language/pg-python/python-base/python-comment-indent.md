@@ -11,8 +11,8 @@
 
 ### - 주석의 종류
 
-* 행단위 :  \#
-* 블럭단위 \(Document String\): """  ~~ """  
+* 행단위 :  \#   , java : //
+* 블럭단위 \(Document String\): """   ~~"""     , java : /\*~~ \*/  , /\*\*~~ \*/
 *  **※ 주의 : 블록 주석은 중첩 불가**
 
 ```python
@@ -75,6 +75,13 @@ def factorial(x):
      else:
          return x * factorial(x - 1)
 ```
+
+> 5  \*   factorial\(5 - 1\)  
+>                                                    4 \* factorial\(4 - 1\)  
+>                                                               3 \* factorial\(3 - 1\)  
+>                                                                          2 \* factorial\( 2- 1\)  
+>                                                                                      1 \*  factorial\( 1- 1\)  
+>                                                                                                    1
 
 ```python
 def factorial(x):
