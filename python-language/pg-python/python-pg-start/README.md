@@ -11,7 +11,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-**변수\(Variable\) :** 문자나 숫자 같은 값을 담는 그릇과 같은 것 바꿀 수 있는 값.  예\) a = 7 에서 a가 변수
+**변수\(Variable\) :** 재사용을 목적으로 문자나 숫자 같은 값을 담는 그릇과 같은 것 바꿀 수 있는 값.  예\) a = 7 에서 a가 변수
 {% endhint %}
 
 {% hint style="info" %}
@@ -24,6 +24,6 @@
 {% endhint %}
 
 {% hint style="info" %}
-data type : 데이터의 타입을 나타냄 정수 , 실수 
+data type : 데이터의 타입을 나타냄 정수 , 실수 .....
 {% endhint %}
 
