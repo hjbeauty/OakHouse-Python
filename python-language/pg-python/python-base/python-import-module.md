@@ -29,7 +29,7 @@
 {% endtab %}
 
 {% tab title="from  import" %}
-* from 모듈 import 함수 
+* from 모듈 import 함수   ==&gt; java 에서  import static java.lang.Math.abs;
 * from 모듈 import 함수1, 함수2, 함수3 ... 
 * from 모듈 import  \*  
 * from 모듈 import 함수 as 별명
