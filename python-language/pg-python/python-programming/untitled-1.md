@@ -90,6 +90,15 @@
 * 파이썬의 경우, 파라미터에 값을 전달 할 때, 파라미터의 이름을 명시하여 전달 가능
 * 파라미터 이름을 사용하지 않을 경우, 기본적으로 순서에 맞게 전달
 
+```text
+def add2(x=9 , y=10 ):
+    return x+y
+
+
+add2(y=300)
+add2(y=300,x=23)
+```
+
 ### 
 
 **return \(리턴\)**
@@ -103,6 +112,22 @@
 
 **multiple return \(복수 값 반환\)**
 
+```text
+#  사칙연산 결과를 리턴하는 함수
+def calc(x,y):
+    add = x + y
+    min = x - y
+    mul = x * y
+    div = x // y
+
+    return add, min, mul , div
+    
+res1 = calc(3,4)
+print(res1)
+add, min, mul , div = calc(3,4)
+print(add, min, mul , div)    
+```
+
 * tuple반환을 하여 복수개의 값 리턴 가능
 
 
@@ -112,8 +137,24 @@
 * 변수가 참조 가능한 코드상의 범위를 명시
 * 함수내의 변수는 자신이 속한 코드 블록이 종료되면 소멸됨
 * 이렇게 특정 코드 블록에서 선언된 변수를 **지역변수\(local variable\)** 이라고 함
-* 반대로 가장 상단에서 정의되어 프로그램 종료 전까지 유지되는 변수를 **전역변수\(global variable\)**이라고 함
+* 반대로 가장 상단에서 정의되어 프로그램 종료 전까지 유지되는 변수를 **전역변수\(global variable\)**이라고 함 ==&gt; 
+  * **global  변수명**
 * 같은 이름의 지역변수와 전역변수가 존재할 경우, 지역변수의 우선순위가 더 높음
+
+```text
+num1 = 3
+num2 = 4
+
+
+def func( x , y ):
+    global num1,num2
+    print(num1,num2, x,y)
+    num1 = x ** num1
+    num2 = y ** num2
+    print(num1,num2, x,y)
+
+    # return num1 , num2
+```
 
 ### 
 
@@ -130,14 +171,42 @@
 >
 > **\*\*kwargs** : 파리미터를 딕셔너리 형태로 전달\(네임드 파라미터\)
 
+### **\*args**, 
+
+```text
+def myPrint(*x ):
+    print(type(x))
+    print(x)
+    for item  in  x :
+        print(item)
+```
+
+```text
+myPrint(2)
+myPrint(2,5,7,1)
+myPrint()
+```
 
 
-**keyword parameter \(키워드 파라미터\)**
+
+**keyword parameter \(키워드 파라미터\) \*\*kwargs**
 
 * \*\*가 붙은 경우에는 키워드 파라미터로 인식
 * 즉 함수 호출 시, 파리미터의 이름과 값을 함께 전달 가능
 
+```text
+def myPrint2(**x ):
+    print(type(x))
+    print(x)
+    for  k , v     in   x.items() :
+        print("key:",k,'value:',v)
 
+```
+
+```text
+myPrint2(param1=123)
+myPrint2(key1=123, key2="kim")
+```
 
 * 가변길이 함수의 대표적인 예
 
