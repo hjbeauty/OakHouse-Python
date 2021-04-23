@@ -222,13 +222,13 @@ for k in [1,2,3,4,5] :
 
 str = [1,2,3,4,5]
 for k in str :
-    print(k)sum = 0
+    print(k)
 ```
 {% endtab %}
 
 {% tab title="실습2" %}
 ```python
-
+sum = 0
 for i  in range(5) :
     sum += 1
 
