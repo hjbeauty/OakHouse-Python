@@ -43,7 +43,7 @@ description: PyCharm 설치와 기본 구성을 통하여 빅데이터 분석환
 
 ![](../.gitbook/assets/image%20%28175%29.png)
 
-> Pycharm 실행  , 이젠에 사용한 적이 있다면 구성정보\(Config\)를 불러올 수 있다. 지금은 최초 설치이기에 "Do not import settings"을 클릭한
+> Pycharm 실행  , 이에 사용한 적이 있다면 구성정보\(Config\)를 불러올 수 있다. 지금은 최초 설치이기에 "Do not import settings"을 클릭한
 
 ![](../.gitbook/assets/image%20%28216%29.png)
 
