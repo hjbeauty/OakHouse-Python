@@ -30,7 +30,10 @@
     * [function](python-language/pg-python/python-programming/untitled-1.md)
     * [class](python-language/pg-python/python-programming/class.md)
     * [package](python-language/pg-python/python-programming/package.md)
-* [2.Python Lib](python-language/pg-python-lib.md)
+* [2.Python Lib](python-language/pg-python-lib/README.md)
+  * [numpy](python-language/pg-python-lib/numpy/README.md)
+    * [차원에 의한 명칭](python-language/pg-python-lib/numpy/undefined.md)
+    * [Numpy Basic](python-language/pg-python-lib/numpy/numpy-basic.md)
 * [Pandas rank\(\) , average?](python-language/pandas-rank-average.md)
 
 ## Crawling-Scraping
