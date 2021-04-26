@@ -42,12 +42,14 @@ flot_v
 
 numpy install
 
-**&gt; !pip insatll numpy**
+**&gt; !pip install numpy  ==&gt; colab**
+
+**&gt; pip install numpy  ==&gt; pycharm 의 terminal**
 
 **&gt; import numpy as np**
 
 ```text
-
+import numpy as np 
 ```
 
 **np.array함수를 사용한 값을 변수 a에 저장**
@@ -64,13 +66,14 @@ print(       )  # numpy 배열의 유형은 numpy.ndarray
 ```
 
 ```text
-isinstance(a,     )
+isinstance(a,     ) # a가 numpy의 array의 인스턴스 인지 확인 
 
 True
 ```
 
 ```text
 np.ndarray(a) 
+np.array(a) 
 ```
 
 ```text

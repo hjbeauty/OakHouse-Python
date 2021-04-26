@@ -89,7 +89,7 @@ arr_tensor2.shape
 
 ### 차원 변경
 
-* reshape : 만들어진 행력을 다른 차원으로 변경
+* reshape : 만들어진 행을 다른 차원으로 변경
   * -1  : size를 기반으로 row 개수를 선정하는 옵션입니다. 
 * flatten : 배열을 1차원 형태의 배열로 변환
 
@@ -133,7 +133,7 @@ print(arr_matrix2_reshape2.shape)
 ```
 
 ```text
-arr_matrix2_reshape =  
+arr_matrix2_reshape =  arr_matrix2_reshape2.reshape( arr_matrix2_reshape2.size)
 print(arr_matrix2_reshape)
 print(arr_matrix2_reshape.shape)
 
