@@ -273,5 +273,15 @@ numpy , [axis](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=htt
 * axis = 1 : 열방향
 * axis = 2 : 면\(대각선\) 축방향 
 
-
+```text
+a = np.array([[1, 2],[ 3, 4]])
+b = np.array([4, 2])
+print(a+b)
+c=np.max(a+b)
+print(c)
+d=np.max(a+b,axis=0)
+print(d)
+d=np.max(a+b,axis=-1)
+print(d)
+```
 
