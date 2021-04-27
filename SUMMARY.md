@@ -34,6 +34,7 @@
   * [numpy](python-language/pg-python-lib/numpy/README.md)
     * [차원에 의한 명칭](python-language/pg-python-lib/numpy/undefined.md)
     * [Numpy Basic](python-language/pg-python-lib/numpy/numpy-basic.md)
+  * [Pandas](python-language/pg-python-lib/pandas.md)
 * [Pandas rank\(\) , average?](python-language/pandas-rank-average.md)
 
 ## Crawling-Scraping
