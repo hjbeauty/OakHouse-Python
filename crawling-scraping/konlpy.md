@@ -97,6 +97,14 @@ pip install  simplejson
 
 ```
 
+```text
+import pytagcloud
+import webbrowser
+
+tag = [('school',30), ('rainbow',10), ('cloud',23), ('peach',10), ('pink',20)]
+
+```
+
 ![](../.gitbook/assets/image%20%28247%29.png)
 
 ![](../.gitbook/assets/image%20%28227%29.png)
