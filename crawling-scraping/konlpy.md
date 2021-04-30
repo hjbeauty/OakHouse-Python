@@ -102,6 +102,13 @@ import pytagcloud
 import webbrowser
 
 tag = [('school',30), ('rainbow',10), ('cloud',23), ('peach',10), ('pink',20)]
+print(tag)
+taglist = pytagcloud.make_tags(tag,maxsize=40)
+print(taglist)
+
+pytagcloud.create_tag_image(taglist,'/content/drive/MyDrive/Colab Notebooks/서초195/resource/wordcloud2.jpg')
+
+webbrowser.open('/content/drive/MyDrive/Colab Notebooks/서초195/resource/wordcloud2.jpg')
 
 ```
 
