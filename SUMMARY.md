@@ -46,6 +46,7 @@
 * [HTML parsing - BeautifulSoup](crawling-scraping/html-parsing-beautifulsoup.md)
 * [Selenium](crawling-scraping/selenium.md)
 * [KoNLPy https://konlpy.org/en/latest/](crawling-scraping/konlpy.md)
+* [Colaboratory Matplotlib 에서 한글폰트 사용하기](crawling-scraping/colaboratory-matplotlib.md)
 
 ## pytorch
 
