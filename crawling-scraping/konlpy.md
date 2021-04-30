@@ -26,6 +26,11 @@ description: KoNLPy is a Python package for Korean natural language processing
 
 ![](../.gitbook/assets/image%20%28249%29.png)
 
+```text
+from konlpy.corpus import kolaw
+
+```
+
 ![](../.gitbook/assets/image%20%28242%29.png)
 
 ![](../.gitbook/assets/image%20%28280%29.png)
