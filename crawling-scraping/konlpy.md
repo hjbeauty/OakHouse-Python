@@ -91,6 +91,12 @@ Kkma, Twiter
 
 ![](../.gitbook/assets/image%20%28288%29.png)
 
+```text
+pip install pygame pytagcloud
+pip install  simplejson
+
+```
+
 ![](../.gitbook/assets/image%20%28247%29.png)
 
 ![](../.gitbook/assets/image%20%28227%29.png)
