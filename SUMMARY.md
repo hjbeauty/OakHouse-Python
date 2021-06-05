@@ -50,7 +50,8 @@
 
 ## pytorch
 
-* [PYTORCH install](pytorch/untitled.md)
+* [PYTORCH install](pytorch/untitled/README.md)
+  * [pycharm + venv](pytorch/untitled/pycharm-+-venv.md)
 
 ---
 
